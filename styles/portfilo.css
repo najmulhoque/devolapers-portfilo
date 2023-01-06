@@ -131,6 +131,39 @@ color: #474747;
     font-size: 20px;
     color: #757575;;
 }
+/* what i do */
+.what{
+    text-align: center;
+    margin-bottom: 60px;
+    
+}
+.what-i-do{
+    margin-top: 130px;
+}
+.skills-containar{
+    display: flex;
+
+}
+.skill-title{
+    color:  #181818;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top:30px ;
+    margin-bottom: 20px;
+}
+.skill-descripotion{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575; 
+}
+.skills{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+/* this resume styls */
+
 
 
 
